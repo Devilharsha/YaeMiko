@@ -28,7 +28,7 @@ ALIVE_ANIMATION = [
     "https://telegra.ph/file/aab890f6b2d22904f6526.jpg",
     "https://telegra.ph/file/e9770f54a3c01c49dd515.jpg",
     "https://telegra.ph/file/72f60e13ff278d514baf4.jpg",
-    "",
+    "https://telegra.ph/file/95a30dd7d631ecea8f795.jpg",
 ]
 
 FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
